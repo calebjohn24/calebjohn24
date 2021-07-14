@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm a developer, entrepreneur, student, and tech enthusiast form Seattle, WA.
 
-### I'm currently working on <a href="https://pongoai.com">PongoAI <img alt="pongo" src="https://pongoai.com/logo.svg" width=50> </a> to help businesses use NLP to analyze feedback and surveys
+### I'm currently working on <a href="https://pongoai.com">PongoAI</a> to help businesses use NLP to analyze feedback and surveys
 
 #### Some of my other projects include: 
 
