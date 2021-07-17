@@ -11,7 +11,7 @@
 ##### This some of my code from last startup, Cedar Robotics, this repo is for the indoor dining ordering service
 
 #### - <a href="https://github.com/calebjohn24/PointOS">PointOS</a>
-##### This some more from Cedar Robotics, this repo contains some of the code the robot used for integrating sensors and motors, and some of the training scripts used to train the wheel alignment ML model.
+##### This some more of my work Cedar Robotics, this repo contains some of the code the robot used for integrating sensors and motors, and some of the training scripts used to train the wheel alignment ML model.
 
 #### - <a href="https://github.com/calebjohn24/AR_Copy_Paste">AR Copy and Paste</a>
 ##### This is a hackathon project I built. It can copy and paste objects and text from the world to your phone or laptop.
