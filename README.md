@@ -1,4 +1,4 @@
-### Hi there 👋 I'm a developer, entrepreneur, student, and tech enthusiast form Seattle, WA.
+### Hi there 👋 I'm a developer, entrepreneur, student, and tech enthusiast from Seattle, WA.
 
 ### I'm currently working on <a href="https://pongoai.com">PongoAI</a> to help businesses use NLP to analyze feedback and surveys
 
