@@ -11,7 +11,7 @@
 ##### This some more of my work Cedar Robotics, this repo contains some of the code the robot used for integrating sensors and motors, and some of the training scripts used to train the wheel alignment ML model.
 
 #### - <a href="https://github.com/calebjohn24/compliancy_app_public">Inspection Engine</a>
-##### This is platform I built to help automate fire safety inspections, it includes 2 web dashboards, one for fire marshals and one for company admins, and a <a href="https://github.com/calebjohn24/compliancy_app_mobile">mobile app</a> for technicians
+##### This is platform I built that automates fire safety inspections, it includes 2 web dashboards, one for fire marshals and one for company admins, and a <a href="https://github.com/calebjohn24/compliancy_app_mobile">mobile app</a> for technicians
 
 #### - <a href="https://github.com/calebjohn24/AR_Copy_Paste">AR Copy and Paste</a>
 ##### This is a hackathon project I built. It can copy and paste objects and text from the world to your phone or laptop.
