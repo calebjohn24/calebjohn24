@@ -2,7 +2,7 @@
 
 ### I'm currently working on <a href="https://pongoai.com">PongoAI</a> to help businesses use NLP to analyze feedback and surveys
 
-#### Some of my other projects include: 
+#### Some of my other experiences/projects include: 
 
 #### - <a href="https://github.com/calebjohn24/cdr_ordering_service">CDR Ordering Service<a>
 ##### This repo is for my indoor dining ordering service, that includes a full featured kiosk app with a sqaure card reader for payments, and dish managemnt tool for restaurants. I built this for my last startup Cedar Robotics.
